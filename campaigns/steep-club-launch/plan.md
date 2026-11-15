@@ -1,7 +1,7 @@
-# Campaign Plan: The Steep Club Launch
+# Campaign Plan: Sahab Jee Chai Club Launch
 
 **Business:** Sahab Jee Store
-**Campaign:** Launch The Steep Club, our monthly tea box, to the waitlist
+**Campaign:** Launch the Sahab Jee Chai Club, our monthly tea box, to the waitlist
 **Dates:** Monday 7 December 2026 to Sunday 3 January 2027 (4 weeks)
 **Channel:** Email only. No paid ads.
 **Brand voice:** Follow `brand/voice.md`. Every customer email is in Roman Urdu: polite, honest and welcoming, with no pushy sales talk.
@@ -14,7 +14,7 @@
 
 Some details weren't given, so this plan uses placeholders. Please confirm or fill them in before drafting starts.
 
-- **The Steep Club** is Sahab Jee Store's monthly tea subscription box. A customer pays once a month and receives a box of tea (for example chai patti, green tea, kahwa).
+- **Sahab Jee Chai Club** is Sahab Jee Store's monthly tea subscription box. A customer pays once a month and receives a box of tea (for example chai patti, green tea, kahwa).
 - **Box contents and price:** `[What's in the box]`, `[Monthly price]`. Not decided yet.
 - **How people join:** `[Signup link, WhatsApp number or in-shop counter]`. Every email needs this.
 - **Delivery area and timing:** `[Delivery area]`, `[When boxes go out each month]`. We won't promise exact delivery times (see brand rules).
@@ -24,8 +24,8 @@ Some details weren't given, so this plan uses placeholders. Please confirm or fi
 
 ## 1. Campaign overview
 
-- **Name:** The Steep Club Launch (in emails: *"The Steep Club: har mahine chai ka naya dabba"*)
-- **Summary:** Invite the 2,000 people on our waitlist to join The Steep Club, our monthly tea box, over four calm, friendly weeks of email.
+- **Name:** Sahab Jee Chai Club Launch (in emails: *"Sahab Jee Chai Club: har mahine chai ka naya dabba"*)
+- **Summary:** Invite the 2,000 people on our waitlist to join the Sahab Jee Chai Club, our monthly tea box, over four calm, friendly weeks of email.
 - **Main goal:** **300 waitlist members start a subscription by Sunday 3 January 2027.** That's 15% of the list.
 - **Secondary goals:**
   - Learn which of the three groups joins most, to guide next month's emails.
@@ -91,7 +91,7 @@ Week 0 is preparation before launch. "All" means everyone on the waitlist who ha
 | 0 | 23 Nov to 4 Dec | Tag the list into A / B / C | — | Shop owner. Needs `leads/` data. | Not started |
 | 0 | 23 Nov to 4 Dec | Draft emails 1 to 8 and the welcome email; review against `brand/voice.md` | — | Claude drafts, owner reviews. Use the brand-review skill on each draft. | Not started |
 | 0 | by 4 Dec | Photo of the real box | — | Owner. Needed for emails 1, 3 and 6. | Not started |
-| 1 | Mon 7 Dec | **Email 1: Launch.** *"The Steep Club shuru ho gaya hai, ji."* What it is, the price, how to join. | All | Most important email. | Not started |
+| 1 | Mon 7 Dec | **Email 1: Launch.** *"Sahab Jee Chai Club shuru ho gaya hai, ji."* What it is, the price, how to join. | All | Most important email. | Not started |
 | 1 | Thu 10 Dec | **Email 2: For you.** One version per group: A "try new teas", B "a gift that arrives every month", C "your daily chai, sorted". | A / B / C | Needs list tags. Untagged people get version C. | Not started |
 | 2 | Mon 14 Dec | **Email 3: Box ke andar kya hai.** What's in December's box, with a photo and a short brewing tip. | All | Depends on the box photo. | Not started |
 | 2 | Thu 17 Dec | **Email 4: Aap ke sawal, humare jawab.** Honest answers: price, delivery area, how to pause or cancel. | All | Use real questions from replies to emails 1 to 3. | Not started |
@@ -113,7 +113,7 @@ Week 0 is preparation before launch. "All" means everyone on the waitlist who ha
 
 | # | Asset | What it contains | Priority | Draft by |
 |---|---|---|---|---|
-| 1 | Email 1: Launch | What The Steep Club is, the price, how to join, the box photo | Must have | 1 Dec |
+| 1 | Email 1: Launch | What the Sahab Jee Chai Club is, the price, how to join, the box photo | Must have | 1 Dec |
 | 2 | Email 2: Three group versions (A, B, C) | One message per group, from section 3 | Must have | 1 Dec |
 | 3 | Email 3: Inside the box | December contents, photo, brewing tip | Must have | 2 Dec |
 | 4 | Email 4: Questions and answers | Price, delivery area, pausing, cancelling | Must have | 2 Dec |
@@ -189,6 +189,5 @@ The budget is small and email only, so most of the cost is time rather than mone
 - The owner approves each email draft after the brand review.
 
 **Decisions to make:**
-- Is the name "The Steep Club" clear to our customers? "Steep" may be an unfamiliar English word. We could add a simple Roman Urdu line under it, such as *"har mahine chai ka naya dabba"*, or choose a local name.
 - Can we deliver boxes as gifts to a different address?
 - Which email tool will the shop use for sending (outside this studio)?
