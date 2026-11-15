@@ -44,7 +44,7 @@ Everyone on the list asked to hear from us, so they're past the "never heard of 
 
 **Where they spend time:** their email inbox (this campaign), plus WhatsApp and the shop counter. We won't use those as campaign channels, but staff can mention the club in the shop.
 
-**What we need:** each contact on the list tagged A, B or C. If we don't know someone's group, they get the general emails only.
+**What we need:** each contact on the list tagged A, B or C. If we don't know someone's group, we treat them as group C (daily tea drinkers). They get every "All" email, version C of email 2 and the winter version of email 5.
 
 ## 3. Key messages
 
@@ -96,7 +96,7 @@ Week 0 is preparation before launch. "All" means everyone on the waitlist who ha
 | 2 | Mon 14 Dec | **Email 3: Box ke andar kya hai.** What's in December's box, with a photo and a short brewing tip. | All | Depends on the box photo. | Not started |
 | 2 | Thu 17 Dec | **Email 4: Aap ke sawal, humare jawab.** Honest answers: price, delivery area, how to pause or cancel. | All | Use real questions from replies to emails 1 to 3. | Not started |
 | 3 | Mon 21 Dec | **Email 5 (gift buyers): Tohfe ka aasan tareeqa.** How to send the box as a gift. | B | Only if gift delivery is set up. Be honest about timing. | Not started |
-| 3 | Mon 21 Dec | **Email 5 (others): Sardiyon ki chai.** A warm winter note with one simple recipe idea. | A, C | No health claims. | Not started |
+| 3 | Mon 21 Dec | **Email 5 (others): Sardiyon ki chai.** A warm winter note with one simple recipe idea. | A, C, untagged | No health claims. | Not started |
 | 3 | Thu 24 Dec | **Email 6: Reminder.** For people who opened or clicked but didn't join: a gentle *"Agar aap soch rahe hain…"* | Opened, not joined | Skip it if the email tool can't tell who opened. | Not started |
 | 4 | Mon 28 Dec | **Email 7: Naye saal ki pehli chai.** January's box and a New Year welcome. | All | — | Not started |
 | 4 | Thu 31 Dec | **Email 8: Last launch email.** A calm note. If there's a real founding-member offer, say plainly that it ends Sunday 3 January. | All | Only mention a deadline if it's real. | Not started |
