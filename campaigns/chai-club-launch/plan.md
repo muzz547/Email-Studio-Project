@@ -125,7 +125,7 @@ Week 0 is preparation before launch. "All" means everyone on the waitlist who ha
 | 10 | Box photo | One clear photo of the real box | Must have | 4 Dec |
 | 11 | Subject lines | 2 options per email in Roman Urdu, for example *"Aap ke liye chai ka naya dabba, ji"* | Must have | With each email |
 
-Drafts will go in `campaigns/steep-club-launch/`, one file per email.
+Drafts will go in `campaigns/chai-club-launch/`, one file per email.
 
 ## 7. Success metrics
 
