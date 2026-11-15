@@ -37,3 +37,20 @@ Check these three things before installing any skill:
 1. **Who publishes it.** Look at the owner name before the `/`. Prefer the real company (`anthropics`, `resend`) or a well-known author. Watch out for names that only *sound* official.
 2. **Whether the numbers add up.** Compare GitHub stars, skills.sh installs and the last update date. Lots of installs with almost no stars, or a repo nobody has touched in months, is a warning sign.
 3. **What it actually does.** Open the skill's `SKILL.md` and any scripts before installing. Make sure it only asks for the access it needs (API keys, sending email, DNS changes) and doesn't run code or contact servers you didn't expect.
+
+## Why we used a skill instead of writing our own prompt
+
+Decided 15 November 2026, after testing the Chai Club launch plan (`campaigns/chai-club-launch/plan.md`).
+
+**1. The skill already knows what a full campaign plan needs.**
+- A prompt we wrote ourselves would probably have given us an email calendar and not much more.
+- The `campaign-plan` skill also gave us parts we might have forgotten: weekly checkpoints with "if we're behind" actions, risks and how to handle them, dependencies (what must be ready before each email) and a budget.
+- It's a checklist that has already been tested, so we start from a complete structure.
+
+**2. Our own files supply the brand. The skill doesn't need to know it.**
+- The skill knows nothing about Sahab Jee Store, Roman Urdu or our rules.
+- The plan still followed our brand for two reasons:
+  - We told it to follow `brand/voice.md`.
+  - `CLAUDE.md` has the line `@brand/voice.md`, which loads the voice guide into every session automatically.
+- The skill gives the **structure**. Our files give the **content**: who we are, how we sound and what we must never say.
+- If we change `voice.md`, every future plan and email picks up the change. We never have to edit the skill.
