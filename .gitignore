@@ -7,3 +7,8 @@ __pycache__/
 dist/
 build/
 .claude/settings.local.json
+
+# System files
+Thumbs.db
+desktop.ini
+._*
