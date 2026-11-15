@@ -58,7 +58,7 @@ Everyone on the list asked to hear from us, so they're past the "never heard of 
 |---|---|---|
 | *"Nayi chai try karein, bina kisi uljhan ke."* A simple way to try new teas, with a short note in every box on how to make it. | A. Beginners | The actual box contents and the brewing note. |
 | *"Ek tohfa jo har mahine yaad dilaye."* A gift that arrives every month. | B. Gift buyers | A photo of the real box, and how gifting works (who pays, where it's sent). |
-| *"Aap ki roz ki chai, kabhi khatam na ho."* Your daily chai, without the trip to the shop. | C. Daily drinkers | The price per month compared with what's inside, stated plainly. |
+| *"Aap ki roz ki chai, har mahine aap ke ghar."* Your daily chai, at your home every month. | C. Daily drinkers | The price per month compared with what's inside, stated plainly. |
 | *"Aap humein jaante hain."* You already know us. Same shop, same people, same respect. | Everyone | Years in business, the shop address, a real phone number to call. |
 
 **Brand guardrails for every message** (from `brand/voice.md`):
@@ -137,7 +137,7 @@ Drafts will go in `campaigns/chai-club-launch/`, one file per email.
 |---|---|---|
 | Week 1 (13 Dec) | 90 | Check whether email 1 was opened and the signup route works. |
 | Week 2 (20 Dec) | 170 | Use real questions in email 4. Check whether the price is the barrier. |
-| Week 3 (27 Dec) | 240 | Push the gift angle harder with group B. |
+| Week 3 (27 Dec) | 240 | Tell group B more about gifting, in the same calm tone. |
 | Week 4 (3 Jan) | 300 | — |
 
 Launch emails usually bring the most signups early, so the targets are higher in the first two weeks.
