@@ -11,6 +11,11 @@ This studio is for planning and writing email campaigns for a small business. Us
 
 ## Rules
 
-- **Write in plain English.** Use short sentences and everyday words. Avoid jargon, and explain any technical term the first time you use it.
+- **Write customer emails in Roman Urdu.** Urdu written in English letters, using short sentences and everyday words. See `brand/voice.md` for details.
+- **Write everything else in plain English.** That includes plans, notes and explanations to me. Use short sentences and everyday words. Avoid jargon, and explain any technical term the first time you use it.
 - **Never send email to real people.** Draft, plan and preview only. Don't send, schedule or trigger any email, and don't run anything that could, even as a test.
 - **Ask me before deleting anything.** That includes files, folders, drafts and contacts.
+
+## Brand voice
+
+@brand/voice.md
