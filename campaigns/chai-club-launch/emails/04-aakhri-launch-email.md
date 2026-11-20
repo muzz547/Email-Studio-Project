@@ -20,6 +20,8 @@ Agar aap join karna chahein, to yahan se kar sakte hain:
 
 Aur agar abhi nahi, to bhi koi baat nahi. Jab waqt mile, dukaan par tashreef laayein.
 
+Koi bhi sawal ho to bila jhijhak call karein.
+
 Aap ko aur aap ke ghar walon ko naya saal mubarak ho!
 
 Sahab Jee Store
