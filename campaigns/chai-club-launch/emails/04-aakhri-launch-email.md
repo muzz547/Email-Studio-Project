@@ -3,7 +3,7 @@ Preview: Chai Club ke launch ki aakhri email. Aap ke waqt ka shukriya.
 
 Assalam-o-Alaikum {{first_name}} ji,
 
-Pichle chaar hafte aap ne humari emails padhin. Is ka dil se shukriya.
+Pichle kuch hafton se aap ne humari baat suni. Is ka dil se shukriya.
 
 Yeh Chai Club ke launch ki aakhri email hai. Is ke baad hum aap ko launch ki aur emails nahi bhejein ge.
 
@@ -12,7 +12,7 @@ Yeh Chai Club ke launch ki aakhri email hai. Is ke baad hum aap ko launch ki aur
 - [Monthly price] har mahine
 - [Delivery area] mein delivery
 
-[Only if there is a real founding-member offer: Founding-member price [Offer price] hai. Yeh offer Sunday 3 January ko khatam ho jaaye ga. If there's no offer, delete this paragraph.]
+[Only if there is a real founding-member offer: Jo log shuru mein join karein, un ke liye khaas price [Offer price] hai. Yeh offer Sunday 3 January ko khatam ho jaaye ga. If there's no offer, delete this paragraph.]
 
 Agar aap join karna chahein, to yahan se kar sakte hain:
 

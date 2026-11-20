@@ -99,7 +99,7 @@ Week 0 is preparation before launch. "All" means everyone on the waitlist who ha
 | 3 | Mon 21 Dec | **Email 5 (others): Sardiyon ki chai.** A warm winter note with one simple recipe idea. | A, C, untagged | No health claims. | Not started |
 | 3 | Thu 24 Dec | **Email 6: Reminder.** For people who opened or clicked but didn't join: a gentle *"Agar aap soch rahe hain…"* | Opened, not joined | Skip it if the email tool can't tell who opened. | Not started |
 | 4 | Mon 28 Dec | **Email 7: Naye saal ki pehli chai.** January's box and a New Year welcome. | All | — | Not started |
-| 4 | Thu 31 Dec | **Email 8: Last launch email.** A calm note. If there's a real founding-member offer, say plainly that it ends Sunday 3 January. | All | Only mention a deadline if it's real. | Not started |
+| 4 | Thu 31 Dec | **Email 8: Last launch email.** A calm note. If there's a real founding-member offer, say plainly that it ends Sunday 3 January. | All | Only mention a deadline if it's real. Must go out by 31 Dec, because the subject says "Naye saal se pehle". | Not started |
 | Any | When someone joins | **Welcome email.** *"Club mein khush aamdeed."* Thank you, what happens next, who to call. | New members | Nice to have. Draft it in Week 0. | Not started |
 
 **Dependencies:**

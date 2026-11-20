@@ -3,7 +3,7 @@ Preview: Har mahine chai ka naya dabba, aap ke ghar. Price aur tafseel andar hai
 
 Assalam-o-Alaikum {{first_name}} ji,
 
-Aap ne humari waitlist par naam likhwaya tha. Is ka bohat shukriya.
+Aap ne Chai Club ke liye pehle se naam likhwaya tha. Is ka bohat shukriya.
 
 Aaj hum khushi se bata rahe hain ke **Sahab Jee Chai Club** shuru ho gaya hai.
 
@@ -20,7 +20,7 @@ Har dabbe mein ek chhoti si parchi bhi hogi. Us mein likha hoga ke har chai kais
 
 Koi bhi sawal ho to bila jhijhak call karein.
 
-Humare saath khareedari ka bohat shukriya.
+Humein yaad rakhne ka bohat shukriya.
 
 Sahab Jee Store
 [Shop address]

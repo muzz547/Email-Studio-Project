@@ -3,9 +3,9 @@ Preview: Ek nazar andar, aur chai banane ka ek aasan tareeqa.
 
 Assalam-o-Alaikum {{first_name}} ji,
 
-Pichle hafte hum ne aap ko Sahab Jee Chai Club ke baare mein bataya tha. Aaj hum dikhate hain ke December ke dabbe mein kya hai.
+Pichle hafte hum ne aap ko Sahab Jee Chai Club ke baare mein bataya tha. Aaj hum dikha rahe hain ke December ke dabbe mein kya hai.
 
-[Photo of the December box]
+[Photo of the December box. Description text for the photo: "December ka Chai Club dabba"]
 
 **Is mahine ke dabbe mein:**
 [December box contents, one item per line]
@@ -13,11 +13,11 @@ Pichle hafte hum ne aap ko Sahab Jee Chai Club ke baare mein bataya tha. Aaj hum
 **Chai banane ka ek aasan tareeqa**
 Doodh patti ke liye pehle paani achhi tarah ubaal lein. Phir patti daal kar do se teen minute pakne dein. Ab doodh daalein, aur cheeni apne hisaab se.
 
-Baaqi chai ka tareeqa dabbe ki parchi par likha hoga.
+Baaqi chaiyon ka tareeqa dabbe ki parchi par likha hoga.
 
 Yeh dabba [Monthly price] har mahine ka hai.
 
-[December ka dabba mangwayein](https://sahabjee.example/chai-club)
+[Chai Club join karein](https://sahabjee.example/chai-club)
 
 Koi bhi sawal ho to bila jhijhak call karein.
 

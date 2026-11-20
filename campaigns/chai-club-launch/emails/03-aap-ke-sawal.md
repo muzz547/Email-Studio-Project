@@ -15,16 +15,15 @@ Abhi hum [Delivery area] mein delivery karte hain. Dabbe [When boxes go out each
 Ji haan. [How to pause]
 
 **Club band kaise karein?**
-[How to cancel]. Koi sawal nahi poochha jaaye ga.
+Band karna aasan hai. [How to cancel].
 
-**Kya dabba tohfe mein bhej sakte hain?**
-[Gift delivery: yes or no, and how it works]
+[Only if gift delivery is possible: **Kya dabba tohfe mein bhej sakte hain?** Ji haan. [How gift delivery works]. If gift delivery is not possible, delete this question.]
 
 Agar aap ka sawal yahan nahi hai, to bila jhijhak call karein. Ya is email ka jawab de dein.
 
 [Chai Club join karein](https://sahabjee.example/chai-club)
 
-Meherbani ji.
+Shukriya ji.
 
 Sahab Jee Store
 [Shop address]
