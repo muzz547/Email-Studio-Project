@@ -14,7 +14,7 @@ Each email file must follow this layout, from top to bottom.
 3. **Greet the reader by name.** Use `{{first_name}}` in the greeting, for example "Assalam-o-Alaikum {{first_name}} ji". `{{first_name}}` is a placeholder. It gets swapped for each person's first name later.
 4. **Exactly one main link.** Write it as a button-style link in this form:
 
-   `[Button text](https://kettlebird.example/steep-club)`
+   `[Button text](https://sahabjee.example/chai-club)`
 
    Change the button text to suit the email. Keep the address exactly as it is. Don't add a second main link.
 5. **End with our sign-off** from `brand/voice.md`:
@@ -26,7 +26,7 @@ Each email file must follow this layout, from top to bottom.
 
 6. **Then the footer.** After the sign-off, add these two lines as plain text. Don't put them inside a code block (a box made with three backticks).
 
-   You're getting this because you joined the Kettlebird Tea waitlist.
-   Kettlebird Tea, {{company_address}} · Unsubscribe: {{unsubscribe_url}}
+   You're getting this because you joined the Sahab Jee Chai Club waitlist.
+   Sahab Jee Store, {{company_address}} · Unsubscribe: {{unsubscribe_url}}
 
    Copy them exactly. `{{company_address}}` and `{{unsubscribe_url}}` are placeholders too. Leave them as they are.

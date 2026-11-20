@@ -22,7 +22,7 @@ Ji haan. [How to pause]
 
 Agar aap ka sawal yahan nahi hai, to bila jhijhak call karein. Ya is email ka jawab de dein.
 
-[Chai Club join karein](https://kettlebird.example/steep-club)
+[Chai Club join karein](https://sahabjee.example/chai-club)
 
 Meherbani ji.
 
@@ -31,5 +31,5 @@ Sahab Jee Store
 Timings: [Opening days and hours]
 Phone: [Phone number]
 
-You're getting this because you joined the Kettlebird Tea waitlist.
-Kettlebird Tea, {{company_address}} · Unsubscribe: {{unsubscribe_url}}
+You're getting this because you joined the Sahab Jee Chai Club waitlist.
+Sahab Jee Store, {{company_address}} · Unsubscribe: {{unsubscribe_url}}

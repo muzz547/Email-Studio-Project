@@ -17,7 +17,7 @@ Baaqi chai ka tareeqa dabbe ki parchi par likha hoga.
 
 Yeh dabba [Monthly price] har mahine ka hai.
 
-[December ka dabba mangwayein](https://kettlebird.example/steep-club)
+[December ka dabba mangwayein](https://sahabjee.example/chai-club)
 
 Koi bhi sawal ho to bila jhijhak call karein.
 
@@ -28,5 +28,5 @@ Sahab Jee Store
 Timings: [Opening days and hours]
 Phone: [Phone number]
 
-You're getting this because you joined the Kettlebird Tea waitlist.
-Kettlebird Tea, {{company_address}} · Unsubscribe: {{unsubscribe_url}}
+You're getting this because you joined the Sahab Jee Chai Club waitlist.
+Sahab Jee Store, {{company_address}} · Unsubscribe: {{unsubscribe_url}}

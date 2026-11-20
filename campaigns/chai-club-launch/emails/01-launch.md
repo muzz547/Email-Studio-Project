@@ -16,7 +16,7 @@ Har mahine aap ke ghar chai ka ek naya dabba aaye ga. Yeh dabba hum khud chunte 
 
 Har dabbe mein ek chhoti si parchi bhi hogi. Us mein likha hoga ke har chai kaise banayein.
 
-[Chai Club join karein](https://kettlebird.example/steep-club)
+[Chai Club join karein](https://sahabjee.example/chai-club)
 
 Koi bhi sawal ho to bila jhijhak call karein.
 
@@ -27,5 +27,5 @@ Sahab Jee Store
 Timings: [Opening days and hours]
 Phone: [Phone number]
 
-You're getting this because you joined the Kettlebird Tea waitlist.
-Kettlebird Tea, {{company_address}} · Unsubscribe: {{unsubscribe_url}}
+You're getting this because you joined the Sahab Jee Chai Club waitlist.
+Sahab Jee Store, {{company_address}} · Unsubscribe: {{unsubscribe_url}}

@@ -16,7 +16,7 @@ Yeh Chai Club ke launch ki aakhri email hai. Is ke baad hum aap ko launch ki aur
 
 Agar aap join karna chahein, to yahan se kar sakte hain:
 
-[Chai Club join karein](https://kettlebird.example/steep-club)
+[Chai Club join karein](https://sahabjee.example/chai-club)
 
 Aur agar abhi nahi, to bhi koi baat nahi. Jab waqt mile, dukaan par tashreef laayein.
 
@@ -27,5 +27,5 @@ Sahab Jee Store
 Timings: [Opening days and hours]
 Phone: [Phone number]
 
-You're getting this because you joined the Kettlebird Tea waitlist.
-Kettlebird Tea, {{company_address}} · Unsubscribe: {{unsubscribe_url}}
+You're getting this because you joined the Sahab Jee Chai Club waitlist.
+Sahab Jee Store, {{company_address}} · Unsubscribe: {{unsubscribe_url}}
