@@ -1,0 +1,25 @@
+first_name,last_name,email,group,joined_on,consent
+Ayesha,Khan,ayesha.khan@example.com,tea-curious,2026-09-14,waitlist form
+Bilal,Ahmed,bilal.ahmed@example.com,tea-curious,2026-09-15,waitlist form
+Sana,Malik,sana.malik@example.com,tea-curious,2026-09-17,waitlist form
+Omar,Siddiqui,omar.siddiqui@example.com,tea-curious,2026-09-19,waitlist form
+Hina,Raza,hina.raza@example.com,tea-curious,2026-09-21,waitlist form
+Daniel,Ortiz,daniel.ortiz@example.com,tea-curious,2026-09-24,waitlist form
+Fatima,Qureshi,fatima.qureshi@example.com,tea-curious,2026-09-27,waitlist form
+Usman,Javed,usman.javed@example.com,tea-curious,2026-10-01,waitlist form
+Tom,Becker,tom.becker@example.com,gift-buyers,2026-09-22,waitlist form
+Zainab,Hussain,zainab.hussain@example.com,gift-buyers,2026-09-16,waitlist form
+Hamza,Sheikh,hamza.sheikh@example.com,gift-buyers,2026-09-18,waitlist form
+Maria,Lopez,maria.lopez@example.com,gift-buyers,2026-09-23,waitlist form
+Ali,Haider,ali.haider@example.com,gift-buyers,2026-09-26,waitlist form
+Rabia,Iqbal,rabia.iqbal@example.com,gift-buyers,2026-09-29,waitlist form
+Kamran,Butt,kamran.butt@example.com,gift-buyers,2026-10-03,waitlist form
+Nadia,Farooq,nadia.farooq@example.com,gift-buyers,2026-10-06,waitlist form
+Imran,Chaudhry,imran.chaudhry@example.com,daily-drinkers,2026-09-14,waitlist form
+Mehwish,Aslam,mehwish.aslam@example.com,daily-drinkers,2026-09-17,waitlist form
+Faisal,Mirza,faisal.mirza@example.com,daily-drinkers,2026-09-20,waitlist form
+Priya,Sharma,priya.sharma@example.com,daily-drinkers,2026-09-25,waitlist form
+Saad,Rehman,saad.rehman@example.com,daily-drinkers,2026-09-28,waitlist form
+Amna,Tariq,amna.tariq@example.com,daily-drinkers,2026-10-02,waitlist form
+James,Wilson,james.wilson@example.com,daily-drinkers,2026-10-05,waitlist form
+Kiran,Abbasi,kiran.abbasi@example.com,daily-drinkers,2026-10-08,waitlist form
