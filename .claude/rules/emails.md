@@ -26,7 +26,7 @@ Each email file must follow this layout, from top to bottom.
 
 6. **Then the footer.** After the sign-off, add these two lines as plain text. Don't put them inside a code block (a box made with three backticks).
 
-   You're getting this because you joined the Sahab Jee Chai Club waitlist.
-   Sahab Jee Store, {{company_address}} · Unsubscribe: {{unsubscribe_url}}
+   Aap ko yeh email is liye aayi hai kyun ke aap ne Sahab Jee Chai Club ki waitlist mein naam likhwaya tha.
+   Sahab Jee Store, {{company_address}} · Aainda email nahin chahiye? Unsubscribe karein: {{unsubscribe_url}}
 
    Copy them exactly. `{{company_address}}` and `{{unsubscribe_url}}` are placeholders too. Leave them as they are.
