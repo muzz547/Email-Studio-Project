@@ -9,7 +9,7 @@ Kisi ko tohfa dene se pehle sawal aana qudrati baat hai. Yeh rahe seedhe jawab.
 [Monthly price] har mahine. Delivery charge: [Delivery charge, or "koi nahi"].
 
 **Delivery kahan hoti hai?**
-Abhi hum [Delivery area] mein delivery karte hain. Dabbe [When boxes go out each month] bheje jaate hain. Agar tohfe wala dabba der se pohanche to humein call karein.
+Abhi hum [Delivery area] mein delivery karte hain. Dabbe [When boxes go out each month] bheje jaate hain. Agar dabba der se pohanche, khaas taur par kisi mauqe se pehle, to humein call karein.
 
 **Kya ek mahine ke liye rok sakte hain?**
 Ji haan. [How to pause]
