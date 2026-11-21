@@ -30,5 +30,5 @@ Sahab Jee Store
 Timings: [Opening days and hours]
 Phone: [Phone number]
 
-You're getting this because you joined the Sahab Jee Chai Club waitlist.
-Sahab Jee Store, {{company_address}} · Unsubscribe: {{unsubscribe_url}}
+Aap ko yeh email is liye aayi hai kyun ke aap ne Sahab Jee Chai Club ki waitlist mein naam likhwaya tha.
+Sahab Jee Store, {{company_address}} · Aainda email nahin chahiye? Unsubscribe karein: {{unsubscribe_url}}
