@@ -13,7 +13,9 @@ This studio is for planning and writing email campaigns for a small business. Us
 
 - **Write customer emails in Roman Urdu.** Urdu written in English letters, using short sentences and everyday words. See `brand/voice.md` for details.
 - **Write everything else in plain English.** That includes plans, notes and explanations to me. Use short sentences and everyday words. Avoid jargon, and explain any technical term the first time you use it.
-- **Never send email to real people.** Draft, plan and preview only. Don't send, schedule or trigger any email, and don't run anything that could, even as a test.
+- **Never send email to real people.** Draft, plan and preview only. Don't send, schedule or trigger any email to customers or leads, and don't run anything that could, even as a test.
+  - **The one exception is Resend, our email service, in practice mode.** Sending through Resend is allowed only to Resend's test addresses (any address ending in `@resend.dev`) and to my own email address. Every other address is off limits.
+  - A guard (a check that runs before every send and blocks any other address) will enforce this. It is added in the next step. Until it is in place, don't send anything through Resend.
 - **Ask me before deleting anything.** That includes files, folders, drafts and contacts.
 
 ## Brand voice
