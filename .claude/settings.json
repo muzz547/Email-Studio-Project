@@ -21,6 +21,12 @@
             "timeout": 10,
             "onFailure": "block",
             "statusMessage": "Checking Resend recipients..."
+          },
+          {
+            "type": "command",
+            "command": "node \"$CLAUDE_PROJECT_DIR/.claude/hooks/send-guard.mjs\"",
+            "timeout": 10,
+            "statusMessage": "Checking email recipients..."
           }
         ]
       }
