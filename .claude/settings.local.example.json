@@ -1,0 +1,8 @@
+{
+  "env": {
+    "MY_EMAIL": "you@example.com",
+    "RESEND_API_KEY": "re_practice",
+    "RESEND_BASE_URL": "http://localhost:4000",
+    "SENDER_EMAIL_ADDRESS": "onboarding@resend.dev"
+  }
+}
